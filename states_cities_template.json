@@ -1,0 +1,59 @@
+{
+    "states": [
+      {
+        "name": "",
+        "stateCode": "",
+        "buildingCodes": {
+          "name": "",
+          "category": "",
+          "year": "",
+          "source":"",
+          "codes": [
+            {
+              "section": "",
+              "subsections": [
+                {
+                  "id": "",
+                  "content": ""
+                },
+                {
+                  "id": "",
+                  "content": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+      
+    ],
+    "cities": [
+      {
+        "name": "",
+        "cityCode": "",
+        "buildingCodes": {
+          "name": "",
+          "category": "",
+          "year": "",
+          "source":"",
+          "codes": [
+            {
+              "section": "",
+              "subsections": [
+                {
+                  "id": "",
+                  "content": ""
+                },
+                {
+                  "id": "",
+                  "content": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+      
+    ]
+  }
+  
