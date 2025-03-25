@@ -1,0 +1,52 @@
+{
+    "chapters": [
+        {
+            "chapter": "CHAPTER 11 ACCESSIBILITY",
+            "sections": [
+                {
+                    "section": "SECTION BC 1101 GENERAL",
+                    "subsections": [
+                        {
+                            "title": "1101.1Scope.",
+                            "content": "This chapter governs the design and construction of buildings for accessibility.",
+                            "subsection_url": "https://codes.iccsafe.org/content/FLBC2023P1/chapter-11-accessibility#FLBC2023P1_Ch11_Sec1101.1"
+                        },
+                        {
+                            "title": "1101.2Design.",
+                            "content": "Reserved.",
+                            "subsection_url": "https://codes.iccsafe.org/content/FLBC2023P1/chapter-11-accessibility#FLBC2023P1_Ch11_Sec1101.2"
+                        }
+                    ],
+                    "section_url": "https://codes.iccsafe.org/content/FLBC2023P1/chapter-11-accessibility#FLBC2023P1_Ch11_Sec1101",
+                    "buildingTypeIds": []
+                }
+            ],
+            "chapter_url": "https://codes.iccsafe.org/content/FLBC2023P1/chapter-11-accessibility#FLBC2023P1_Ch11",
+            "projectTypeIds": []
+        },
+        {
+            "chapter": "CHAPTER 11 ACCESSIBILITY",
+            "sections": [
+                {
+                    "section": "SECTION BC 1101 GENERAL",
+                    "subsections": [
+                        {
+                            "title": "1101.1Scope.",
+                            "content": "This chapter governs the design and construction of buildings for accessibility.",
+                            "subsection_url": "https://codes.iccsafe.org/content/FLBC2023P1/chapter-11-accessibility#FLBC2023P1_Ch11_Sec1101.1"
+                        },
+                        {
+                            "title": "1101.2Design.",
+                            "content": "Reserved.",
+                            "subsection_url": "https://codes.iccsafe.org/content/FLBC2023P1/chapter-11-accessibility#FLBC2023P1_Ch11_Sec1101.2"
+                        }
+                    ],
+                    "section_url": "https://codes.iccsafe.org/content/FLBC2023P1/chapter-11-accessibility#FLBC2023P1_Ch11_Sec1101",
+                    "buildingTypeIds": []
+                }
+            ],
+            "chapter_url": "https://codes.iccsafe.org/content/FLBC2023P1/chapter-11-accessibility#FLBC2023P1_Ch11",
+            "projectTypeIds": []
+        }
+    ]
+}

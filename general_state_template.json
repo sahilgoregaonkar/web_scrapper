@@ -1,0 +1,123 @@
+{
+    "states": [
+      {
+        "name": "California",
+        "abbreviation": "CA",
+        "buildingCode": {
+          "code": "2022 California Building Code",
+          "category":"2021 IBC Amended",
+          "codeVersion": "2022",
+          "source": "https://codes.iccsafe.org/content/CABC2022P4",
+          "occupancyGroups": [
+            "Group A - Assembly",
+            "Group B - Business",
+            "Group E - Educational",
+            "Group F - Factory/Industrial",
+            "Group H - Hazardous",
+            "Group I - Institutional",
+            "Group M - Mercantile",
+            "Group R - Residential",
+            "Group S - Storage",
+            "Group U - Utility and Miscellaneous"
+          ],
+          "seismicSafety": {
+            "isSeismicActive": true,
+            "requirements": "Earthquake-resistant design, seismic retrofitting required for certain structures"
+          },
+          "energyEfficiency": {
+            "energyCode": "California Energy Code (Title 24)",
+            "solarMandate": "Solar panels required for new single-family homes",
+            "efficiencyStandards": "High energy efficiency standards for lighting, insulation, HVAC systems"
+          },
+          "wildfireSafety": {
+            "isWildfireProne": true,
+            "requirements": "Fire-resistant materials, defensible space requirements, building location restrictions"
+          },
+          "floodSafety": {
+            "isFloodProne": true,
+            "requirements": "Elevation requirements for buildings in flood zones, flood-proofing"
+          },
+          "hurricaneSafety": {
+            "isHurricaneProne": true,
+            "requirements": "Hurricane-resistant construction, impact-resistant windows"
+          },
+          "fireSafety": {
+            "fireSprinklersRequired": true,
+            "fireEscapeRequirements": "Standardized fire exits, smoke detectors"
+          },
+          "zoning": {
+            "generalZoning": {
+              "residential": {
+                "minimumLotSize": "5,000 sq ft",
+                "setbacks": {
+                  "front": "20 ft",
+                  "side": "5 ft",
+                  "rear": "10 ft"
+                },
+                "heightLimit": "35 ft"
+              },
+              "commercial": {
+                "minimumLotSize": "10,000 sq ft",
+                "setbacks": {
+                  "front": "25 ft",
+                  "side": "10 ft",
+                  "rear": "15 ft"
+                },
+                "heightLimit": "50 ft"
+              },
+              "industrial": {
+                "minimumLotSize": "20,000 sq ft",
+                "setbacks": {
+                  "front": "30 ft",
+                  "side": "15 ft",
+                  "rear": "20 ft"
+                },
+                "heightLimit": "75 ft"
+              }
+            },
+            "localZoningAmendments": [
+              {
+                "city": "Los Angeles",
+                "amendments": [
+                  "Additional height restrictions in coastal areas",
+                  "Specific zoning restrictions for mixed-use developments"
+                ]
+              },
+              {
+                "city": "San Francisco",
+                "amendments": [
+                  "Density bonuses for affordable housing projects",
+                  "Zoning restrictions in earthquake-prone areas"
+                ]
+              }
+            ]
+          },
+          "localAmendments": [
+            {
+              "city": "Los Angeles",
+              "amendments": [
+                "Additional seismic retrofitting standards for older buildings",
+                "Specific fire safety standards for high-rise buildings"
+              ]
+            }
+          ],
+          "codes": [
+            {
+              "section": "Chapter 7A",
+              "subsections": [
+                {
+                  "id": "7A.1",
+                  "content": "Materials and construction methods for exterior wildfire exposure."
+                },
+                {
+                  "id": "7A.2",
+                  "content": "Specifications for fire-resistant roofing materials."
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+  
